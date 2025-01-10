@@ -1,13 +1,13 @@
 
 
 body {
-    background-color: #1F2937;
     font-family: Roboto;
 }
 
 .first {
     display: flex;  
     align-items: center;
+    background-color: #1F2937;
 }
 
 .first h1 {
@@ -30,6 +30,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    background-color: #1F2937;
 }
 
 .header h3 {
