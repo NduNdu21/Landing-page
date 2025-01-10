@@ -26,3 +26,9 @@ body {
 .header li {
     color: #E5E7EB;
 }
+
+button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+    size: 30px;
+}
