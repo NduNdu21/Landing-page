@@ -15,4 +15,14 @@ body {
 
 .header {
     display: flex;
+    justify-content: space-between;
+}
+
+.header h3 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header li {
+    color: #E5E7EB;
 }
