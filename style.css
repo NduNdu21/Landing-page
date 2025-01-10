@@ -44,7 +44,6 @@ body {
 .header li {
     color: #E5E7EB;
     list-style: none;
-    text-decoration: none;
     padding: 10px;
 }
 
@@ -52,4 +51,8 @@ button {
     background-color: #3882f6;
     color: #F9FAF8;
     size: 30px;
+}
+
+a {
+    text-decoration: none;
 }
