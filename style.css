@@ -75,12 +75,13 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px 100px;
+    padding: 40px 100px;
 }
 
 .second img {
-    height: 140px;
+    height: 150px;
     width: 200px;
+    border-radius: 10px;
 }
 
 #images {
