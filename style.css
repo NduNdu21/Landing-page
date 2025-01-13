@@ -99,6 +99,24 @@ a {
     padding: 50px 100px;
 }
 
+#CTA {
+    background-color: #3882f6;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#CTA-text {
+    display: flex;
+    flex-direction: column;
+    color: #F9FAF8;
+}
+
+#CTA button {
+    border: 4px;
+    border-color: #F9FAF8;
+}
+
 .footer {
     background-color: #1F2937;
 }
