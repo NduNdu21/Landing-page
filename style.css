@@ -2,6 +2,8 @@
 
 body {
     font-family: Roboto;
+    margin: 0;
+    padding: 0;
 }
 
 .first {
@@ -31,6 +33,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #1F2937;
+    padding: 0 4px;
 }
 
 .header h3 {
@@ -55,7 +58,7 @@ button {
     size: 30px;
     padding: 5px 20px;
     border-radius: 15px;
-    outline: none;
+    border: none;
 }
 
 a {
