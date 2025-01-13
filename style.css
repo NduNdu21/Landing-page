@@ -130,8 +130,7 @@ a {
 }
 
 #CTA button {
-    border: 4px;
-    border-color: #F9FAF8;
+    border: 2px solid #F9FAF8;
 }
 
 .footer {
