@@ -136,5 +136,8 @@ a {
 .footer {
     background-color: #1F2937;
     padding: 20px 40px;
+    display: flex;
+    justify-content: center;
+    color: #E5E7EB;
 }
 
