@@ -94,6 +94,13 @@ a {
     justify-content: center;
 }
 
+.third p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
 .fourth {
     background-color: #F9FAF8;
     padding: 50px 100px;
@@ -101,15 +108,24 @@ a {
 
 #CTA {
     background-color: #3882f6;
-    border-radius: 30px;
+    border-radius: 15px;
     display: flex;
     justify-content: space-around;
+    padding: 40px 40px;
 }
 
 #CTA-text {
     display: flex;
     flex-direction: column;
     color: #F9FAF8;
+}
+
+#CTA-text h3 {
+    margin: 0;
+}
+
+#CTA-text p {
+    margin: 0;
 }
 
 #CTA button {
@@ -119,5 +135,6 @@ a {
 
 .footer {
     background-color: #1F2937;
+    padding: 20px 40px;
 }
 
