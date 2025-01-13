@@ -10,6 +10,7 @@ body {
     display: flex;  
     align-items: center;
     background-color: #1F2937;
+    padding: 40px 100px;
 }
 
 .first h1 {
@@ -25,7 +26,7 @@ body {
 
 .first img {
     height: 200px;
-    width: 300px;
+    width: 500px;
     margin: 4px;
 }
 
@@ -33,7 +34,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #1F2937;
-    padding: 0 4px;
+    padding: 10px 100px;
 }
 
 .header h3 {
@@ -67,6 +68,13 @@ a {
 
 .second {
     background-color: #F9FAF8;
+    display: flex;
+    padding: 20px 100px;
+}
+
+.second img {
+    height: 140px;
+    width: 200px;
 }
 
 .third {
